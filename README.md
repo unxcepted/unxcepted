@@ -1,4 +1,17 @@
-### Hi there 👋
+### Idź stąd 👋
+
+## Coś o mnie:
+- Golang i Rust przejmą świat
+- JS nie powinien istnieć
+- Manjaro to najlepsze distro
+- Apple to syf
+- .unx#6007
+- \*\*\*\*\* \*\*\*
+- Robie se bota Boomfinity
+- Ubuntu nie powinno istnieć
+- Minecraft i factorio to najlepsze gry
+- LoLa ebać ale i tak gram
+- IntelliJ > wszystkie inne edytory
 
 <!--
 **unxcepted/unxcepted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
