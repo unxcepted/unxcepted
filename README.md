@@ -3,7 +3,7 @@
 ## Projekty:
 I tak nic nie znajdziesz, wszystko prywatne
 
-## Coś o mnie:
+## Fakty:
 - Golang i Rust przejmą świat
 - JS nie powinien istnieć
 - Manjaro to najlepsze distro
