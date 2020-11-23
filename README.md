@@ -12,7 +12,8 @@ I tak nic nie znajdziesz, wszystko prywatne
 - Ubuntu nie powinno istnieć
 - KDE należy miłować jak Boga twego
 - Lista syfu:
-  - Apple
+  - Apple (caly hardware)
+  - Samsung (telefony)
   - Firefox
   - Ubuntu
   - Gnome
